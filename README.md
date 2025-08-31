@@ -1,5 +1,10 @@
 # Todo App
 
+初回コミットのものは以下のプロンプトのみで Claude Sonnet 4 に書いてもらったコード。
+```
+googleのTodoアプリのようなwebアプリケーションを作ってください。dockerを使い、フロントエンドはReact、バックエンドはpython、データベースはMySQLでそれぞれコンテナのサービスを立てて運用します。一般的な書き方でかつ、後で機能の追加がしやすいように書いてください。
+```
+
 A modern, full-stack Todo application built with React, Python (FastAPI), and MySQL, all containerized with Docker.
 
 ## Features
